@@ -1,1 +1,1 @@
-# Meesho-clone
+# Meesho-landing page - Clone
